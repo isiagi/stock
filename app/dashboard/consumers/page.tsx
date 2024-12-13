@@ -2,7 +2,6 @@
 
 import { useState } from 'react'
 import EntityManager from '@/components/entity-manager'
-import DashboardLayout from '../../components/layout'
 
 interface Consumer {
   id: number
